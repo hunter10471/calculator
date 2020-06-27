@@ -1,0 +1,25 @@
+.main{
+    border: 3px solid gold;
+    width: 300px;
+    margin: 0 auto;
+}
+.result{
+    width: 97%;
+    color: black;
+
+}
+.clearbtn{
+    width: 100%;
+    margin-top: 15px;
+    background-color: yellow;
+}
+.btn{
+    width: 45px;
+    margin: 1px;
+    background-color: yellow;
+}
+.halfbtn{
+    background-color: yellow;
+    width: 95px;
+    margin-top: 5px;
+}
